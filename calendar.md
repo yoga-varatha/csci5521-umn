@@ -2,6 +2,7 @@
 layout: page
 title: Calendar
 description: Listing of course modules and topics.
+permalink: /calendar
 ---
 
 | Week | Date | Lecture | Date | Lecture |  
