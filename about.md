@@ -1,3 +1,7 @@
+layout: page
+title: "About Class"
+permalink: /about
+
 **Class Hours**
 Lecture: MW 4-5:15pm - Keller 3-230. Some activities will be semi-synchronous.
 Seating is limited by available staff support, which has yet to be determined, as well as room size.
