@@ -5,6 +5,6 @@ description: Class Website
 # Add navigation links
 nav:
   - title: "Calendar"
-    url: "/calendar"
+    url: "/calendar/"
   - title: "About"
-    url: "/about"
+    url: "/about/"

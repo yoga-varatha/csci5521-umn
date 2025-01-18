@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About Class"
-permalink: /about
+title: "About"
+permalink: /about/
 ---
 
 
