@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: CSCI 5521 ML Fundamentals
 description: Class Website
+
+# Add navigation links
+nav:
+  - title: "Calendar"
+    url: "/calendar"
+  - title: "About"
+    url: "/about"
