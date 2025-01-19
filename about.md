@@ -16,180 +16,26 @@ description: >-
 
 ---
 
-## Course structure
+**Class Hours**
+Lecture: MW 4-5:15pm - Keller 3-230. Some activities will be semi-synchronous.
+Seating is limited by available staff support, which has yet to be determined, as well as room size.
 
- <ol>
- <li>Overview & Basics 
- <ol>
- <li>Introduction to clinical care and clinical data
- <ul>
- <li>Goals of clinical care </li>
- <li>History and unique challenges</li>
-<li>Attributes of clinical data</li>
+**Textbook**
+Introduction to Machine Learning; by Ethem Alpaydin (3rd ed, 2014, or 4th ed, 2020?).
+"https://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,uid&db=nlebk&AN=2957329&site=ehost-live"
+(above link requires UofM login or on campus or VPN.)
 
- </ul>
-</li>
- <li>Math and python refresher
- <ul>
- <li>Probability, linear algebra, statistics </li>
- <li>NumPy, Pandas, Scikit-Learn, PyTorch</li>
+Instructor: Prof. Yoga Varatharajah,
+Office: Keller 4-203
+Office Hours: TBD
 
- </ul>
-</li>
- </ol>
- </li>
+**Assignment Plan** (not in order)
+If the number of exams and/or assignments changes, the relative weights will be adjusted.
 
-  <li>Classification Problems 
- <ol>
- <li>Classification methods in healthcare
- <ul>
- <li>Diagnosis, prognosis, stratification, segmentation </li>
+Several "classroom" exercises and/or pop quizzes (up to once a week): up to 10% of final grade
+2 assignments with short turn-around time (max 24 hours): 40% of final grade
+4--5 longer assignments : 50% of final grade
+Final grade will be based on a weighted average of your scores, assuming you have reached a minimum threshold in each category.
 
- </ul>
-</li>
- <li>Different model choices and interpretation
- <ul>
- <li>Logistic regression, SVM, random forests, xgboost </li>
- <li>Hyperparameters</li>
- <li> Evaluation</li>
-
- </ul>
-</li>
- </ol>
- </li>
-
-  <li>Unsupervised Problems
- <ol>
- <li>Unsupervised methods for healthcare
- <ul>
- <li>Subtype discovery, pattern discovery </li>
-
- </ul>
-</li>
- <li>Dimensionality reduction
- <ul>
- <li>PCA, ICA, tensor decomposition, t-SNE </li>
- <li>How and when to use them?</li>
-
- </ul>
-</li>
- <li>Clustering methods
- <ul>
- <li>k-means, mixture models, hierarchical clustering </li>
- <li>Understanding, and evaluating clustering results</li>
-
- </ul>
-</li>
- </ol>
- </li>
-
-  <li>Deep Learning
- <ol>
- <li>Convolutional neural networks
- <ul>
- <li>Medical imaging </li>
- <li> Physiological signals </li>
-
- </ul>
-</li>
- <li>Graphs and graph neural networks
- <ul>
- <li>Healthcare knowledge graphs</li>
-
- </ul>
-</li>
- <li>Sequence models in healthcare
- <ul>
- <li>Hidden Markov models </li>
- <li>Recurrent neural networks, LSTM, Attention</li>
-
- </ul>
-</li>
- <li>Unsupervised deep learning for healthcare
- <ul>
- <li>Autoencoders </li>
- <li>Self-supervised learning</li>
-
- </ul>
-</li>
-
- </ol>
- </li>
-
-   <li>Advanced Topics
- <ol>
- <li>Generative models in healthcare</li>
- <li>Clinical foundation models</li>
- <li>Federated learning</li>
- <li>Trustworthy AI
- <ul>
- <li>Robustness </li>
- <li>Fairness</li>
- 
- <li>Safety </li>
- <li>Ethics</li>
-
- </ul>
-</li>
-
- </ol>
- </li>
-
- </ol>
-
-## Grading policy
-
-<table>
-  <tr>
-    <th>Category</th>
-    <th>CSCI 5980 section</th>
-    <th>CSCI 8980 section</th>
-  </tr>
-  <tr>
-    <td>Machine Problems</td>
-    <td>60% ( 3 * 20%)</td>
-    <td>45% ( 3 * 15%)</td>
-  </tr>
-  <tr>
-    <td>Final Project</td>
-    <td>40%</td>
-    <td>40%</td>
-  </tr>
-  <tr>
-    <td>Mini Project</td>
-    <td>-</td>
-    <td>15%</td>
-  </tr>
-</table>
-
-## Late submissions 
-
-No late submissions are allowed. Extenuating circumstances require prior approval.
-
-## Exit passes
-
-(To be updated)
-
-## Lecture scribing
-
-(To be updated)
-
-
-## Academic integrity
-
-As this is an advanced graduate-level course, students are expected to uphold the highest standards of academic integrity. Discussion of ideas is allowed for machine problems and lecture scribing assignments, but the submitted work must be your own. For each problem, please do cite any resources that you have used to solve it. Use of generative AI content in assignments is not allowed. Cheating in this course will result in a failing grade (F), and the University's policies on academic dishonesty will be strictly enforced.
- 
-
-## Students with disability
-
-Students requiring accommodations are encouraged to discuss their needs with the instructor at the beginning of the semester or as soon as possible. The course staff is committed to ensuring an inclusive and accessible learning environment for all students.
-
-## Textbooks
-
-There are no recommended textbooks for the class. However few topics will be borrowed from
-
-<ul>
-    <li> The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition. Trevor Hastie, Robert Tibshirani, and Jerome Friedman.</li>
-    <li> Deep learning. Ian Goodfellow, Yoshua Bengio and Aaron Courville.</li>
-    <li> Deep Learning: Foundations and Concepts. Christopher Bishop and Hugh Bishop.</li>
-</ul>
+**General Information**
+Neural networks, non-parametric windowing, and Bayes statistical theory are three popular methods for recognizing and classifying patterns - the process of Pattern Recognition. These are the basic machine learning algorithms applicable to high-dimensional numerical data. We introduce the fundamental concepts of these various approaches, including the classification phase and the learning phase. Part of the class will be devoted to methods for unsupervised learning and classification. We assume just some knowledge of elementary statistics, calculus, and elementary linear algebra at the upper division undergraduate level, plus programming experience in python. A combination of written assignments and programming projects will be used to illustrate the concepts. All programming will be done in python.
