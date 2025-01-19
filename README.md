@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ML4H
+title: ML Fundamentals
 nav_exclude: true
 permalink: /:path/
 seo:
