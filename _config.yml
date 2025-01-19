@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ML4H Fall'24
-tagline: Course website for ML4H at UMN
-description: Course website for Machine learning for healthcare at University of Minnesota, Twin Cities
+title: Machine Learning Fundamentals Spring'25
+tagline: Course website for Machine Learning Fundamentals at UMN
+description: Course website for Machine Learning Fundamentals at University of Minnesota, Twin Cities
 author: Vishal Kancharla
-baseurl: '/ml4health-umn' # the subpath of your site, e.g. /blog
+baseurl: '/csci5521-umn' # the subpath of your site, e.g. /blog
 url: 'https://yoga-varatha.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
