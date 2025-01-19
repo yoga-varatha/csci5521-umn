@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Machine Learning Fundamentals Spring'25
+title: ML Fundamentals Spring'25
 tagline: Course website for Machine Learning Fundamentals at UMN
 description: Course website for Machine Learning Fundamentals at University of Minnesota, Twin Cities
 author: Vishal Kancharla
