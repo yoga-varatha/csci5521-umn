@@ -38,6 +38,8 @@ seo:
 
 ## Overview
 
+<div>
+
 This is an introductory machine learning class. This course will introduce students to different types of machine learning algorithms, their mathematical underpinnings, practical intuitions, and sample applications. Class will include several homework assignments, quizzes, coding assignments, a midterm, and a final exam, assessing student learning in various ways.
 
 
