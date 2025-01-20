@@ -40,27 +40,6 @@ seo:
 
 This is an introductory machine learning class. This course will introduce students to different types of machine learning algorithms, their mathematical underpinnings, practical intuitions, and sample applications. Class will include several homework assignments, quizzes, coding assignments, a midterm, and a final exam, assessing student learning in various ways.
 
- 
-
-## Textbook
-
-Introduction to Machine Learning; by Ethem Alpaydin (3rd ed, 2014, or 4th ed, 2020).
-"https://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,uid&db=nlebk&AN=2957329&site=ehost-live"Links to an external site.
-(above link requires UofM login or on campus or VPN.)
- 
-
-Prerequisites: Stats 3021 and (CSci 2033 or Math 2142 or Math 4242)
-
-
-## Class work
-
-Quizzes
-
-Homework (Written and Programming)
-
-Midterm
-
-Final
 
 
 
