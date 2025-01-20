@@ -29,9 +29,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Canvas:
-    - ''
+    - 'https://canvas.umn.edu/courses/483222'
   Piazza:
-    - ''
+    - 'https://piazza.com/class/m62lzw04vc9q'
 footer_content:
 
 # Collections for website data
