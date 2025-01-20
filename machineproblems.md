@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Machine problems
+nav_exclude: true
 description: Information about machine problems.
 ---
 
