@@ -17,7 +17,7 @@ description: >-
 ---
 
 ## Class Hours
-Lecture: MW 4-5:15pm - Keller 3-230. Some activities will be semi-synchronous.  
+Lecture: Tuesdays and Thursdays, 9:45 AM - 11:00 AM - Keller Hall 3-230. Some activities will be semi-synchronous.  
 Seating is limited by available staff support, which has yet to be determined, as well as room size.
 
 ## Textbook
