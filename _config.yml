@@ -16,7 +16,7 @@
 title: ML Spring'25
 tagline: Course website for Machine Learning Fundamentals at UMN
 description: Course website for Machine Learning Fundamentals at University of Minnesota, Twin Cities
-author: Vishal Kancharla
+author: Yoga Varatharajah
 baseurl: '/csci5521-umn' # the subpath of your site, e.g. /blog
 url: 'https://yoga-varatha.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
