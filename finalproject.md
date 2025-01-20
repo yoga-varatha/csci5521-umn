@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Final project
+nav_exclude: true
 description: Information regarding final project
 ---
 
