@@ -29,5 +29,5 @@ description: Listing of course modules and topics.
 | 14   | 4/22       | Random Forests (Ch9); Model Comparison and Case Studies    | 4/24       | Quiz 4 (4/22)                         |  
 | 15   | 4/29       | Graphical Models (Ch15); Final Review                      | 5/1        | HW4 due (4/29)                        |  
 | 16   | 5/6        | Study Days                                                 | 5/8        | Last day of instruction (5/6)         |  
-| Final| 5/9        | Final Exam posted at 1 PM, due in 48 hours                 | —          | —                                     |  
+| Final| 5/12       | 8am-10am                                                   | —          | —                                     |  
 
