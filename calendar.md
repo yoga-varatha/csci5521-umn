@@ -24,7 +24,7 @@ description: Listing of course modules and topics.
 | 9    | 3/18       | Neural Networks (Ch11)                                     | 3/20       | Neural Networks                                    |  
 | 10   | 3/25       | Midterm (3/25)                                             | 3/27       | Modern Deep Learning, (**HW3 posted**)      |  
 | 11   | 4/1        | Backprop Recap & Midterm Discussion                        | 4/3        | (**Quiz 3**)                         |  
-| 12   | 4/8        | Kernel Machines (Ch14)                                     | 4/10       | HW3 due (4/8)                         |  
+| 12   | 4/8        | Kernel Machines (Ch14)                                     | 4/10       | HW3 due (4/11)                         |  
 | 13   | 4/15       | Decision Trees (Ch9)                                       | 4/17       | (**HW4 posted**)                            |  
 | 14   | 4/22       | Random Forests (Ch9); Model Comparison and Case Studies    | 4/24       | (**Quiz 4**)                         |  
 | 15   | 4/29       | Graphical Models (Ch15); Final Review                      | 5/1        | HW4 due (5/2)                        |  
