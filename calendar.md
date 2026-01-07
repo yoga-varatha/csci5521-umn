@@ -28,6 +28,6 @@ description: Listing of course modules and topics.
 | 13   | 4/14       | Decision Trees (Ch9)                                       | 4/16       | (**HW4 posted**)                            |  
 | 14   | 4/21       | Random Forests (Ch9); Model Comparison and Case Studies    | 4/23       | (**Quiz 4**)                         |  
 | 15   | 4/28       | Graphical Models (Ch15); Final Review                      | 4/30        | HW4 due (5/2)                        |  
-<!--| 16   | 5/5        | TBD                                                 | 5/8        | - (Last day of instruction 5/6)         |  -->
+| 16   | 5/5        | Study Day                                                 | 5/7        | - Study Day         |  
 | Final| 5/13       | 8am-10am                                                   | —          | —                                     |  
 
