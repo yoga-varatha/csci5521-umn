@@ -9,12 +9,12 @@ seo:
 ---
 
 # CSCI 5521: Machine Learning Fundamentals
-<span style="font-weight: lighter; font-size: 20px">University of Minnesota, Twin Cities, Spring 2025</span>.
+<span style="font-weight: lighter; font-size: 20px">University of Minnesota, Twin Cities, Spring 2026</span>.
 
 ## Logistics
 
   <ul>
-        <li><strong>Location:</strong> 	Keller Hall 3-230</li>
+        <li><strong>Location:</strong> 	Vincent Hall 16</li>
         <li><strong>Time:</strong> Tuesdays and Thursdays, 9:45 AM - 11:00 AM</li>
         <li><strong>Links:</strong> 
           <a href="https://canvas.umn.edu/courses/483222" target="https://canvas.umn.edu/courses/483222">Canvas</a>, 
