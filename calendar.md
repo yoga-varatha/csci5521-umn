@@ -14,7 +14,7 @@ description: Listing of course modules and topics.
 | Week | Date       | Lecture                                                    | Date       | Lecture                                |  
 |------|------------|------------------------------------------------------------|------------|----------------------------------------|  
 | 1    | 1/20       | Introduction (Ch1)                                         | 1/22       | Supervised Learning (Ch2)             |  
-| 2    | 1/27       | Review (Linear Algebra, Probability) HW0 due (1/28)        | 1/29       | ML Programming                         |  
+| 2    | 1/27       | Linear Algebra Review HW0 due (1/28)                       | 1/29       | Probability Review                         |  
 | 3    | 2/3        | Bayesian Decision Theory and Parametric Methods (Ch3,4)    | 2/5        | Multivariate Methods (Ch5) (**HW1 posted**) |  
 | 4    | 2/10       | Dimensionality Reduction (Ch6)                             | 2/12       | (**Quiz 1**)                          |  
 | 5    | 2/17       | Clustering (Ch7, (B*)Ch9)                                  | 2/19       | HW1 due (2/21), (**HW2 posted**)            |  
