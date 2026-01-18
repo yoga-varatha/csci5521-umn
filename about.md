@@ -17,8 +17,7 @@ description: >-
 ---
 
 ## Class Hours
-Lecture: Tuesdays and Thursdays, 9:45 AM - 11:00 AM - Vincent Hall 16. Some activities will be semi-synchronous.  
-Seating is limited by available staff support, which has yet to be determined, as well as room size.
+Lecture: Tuesdays and Thursdays, 9:45 AM - 11:00 AM - Vincent Hall 16. 
 
 ## Textbook
 Introduction to Machine Learning; by Ethem Alpaydin (3rd ed, 2014, or 4th ed, 2020?).  
