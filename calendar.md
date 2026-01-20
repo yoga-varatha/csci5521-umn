@@ -22,7 +22,7 @@ description: Listing of course modules and topics.
 | 7    | 3/3        | Linear Discrimination (Ch10); Midterm Review               | 3/5        | HW2 due (3/9)                         |  
 | 8    | 3/10       | Spring Break                                               | 3/12       | Enjoy your break!                     |  
 | 9    | 3/17       | Neural Networks (Ch11)                                     | 3/19       | Neural Networks                                    |  
-| 10   | 3/24       | Midterm (3/25)                                             | 3/26       | Modern Deep Learning, (**HW3 posted**)      |  
+| 10   | 3/24       | Midterm (3/24)                                             | 3/26       | Modern Deep Learning, (**HW3 posted**)      |  
 | 11   | 3/31        | Backprop Recap & Midterm Discussion                        | 4/2        | (**Quiz 3**)                         |  
 | 12   | 4/7        | Kernel Machines (Ch14)                                     | 4/9       | HW3 due (4/11)                         |  
 | 13   | 4/14       | Decision Trees (Ch9)                                       | 4/16       | (**HW4 posted**)                            |  
